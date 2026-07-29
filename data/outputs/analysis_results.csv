@@ -1,0 +1,7 @@
+prong,normalization,pearson_r,p_pearson,ci_lo,ci_hi,spearman_rho,p_spearman,n
+P1_reg_yoy,per_game,0.5089,0.0,0.4829,0.534,0.4922,0.0,3244
+P1_reg_yoy,total,0.5068,0.0,0.4808,0.5319,0.4883,0.0,3244
+P2_reg_to_po,per_game,0.3663,0.0,0.3193,0.4116,0.3215,0.0,1352
+P2_reg_to_po,total,0.3817,0.0,0.3352,0.4263,0.3261,0.0,1352
+P3_comb_yoy,per_game,0.5527,0.0,0.5233,0.5808,0.5258,0.0,2243
+P3_comb_yoy,total,0.5584,0.0,0.5293,0.5863,0.5247,0.0,2243

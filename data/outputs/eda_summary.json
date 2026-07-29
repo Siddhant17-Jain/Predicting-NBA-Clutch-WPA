@@ -1,0 +1,167 @@
+{
+  "regular": {
+    "rows": 12910,
+    "unique_players": 2535,
+    "seasons": 26,
+    "zero_gms": 186,
+    "gt82_gms": 14
+  },
+  "playoffs": {
+    "rows": 5912,
+    "unique_players": 1645,
+    "seasons": 26,
+    "zero_gms": 433,
+    "gt82_gms": 0
+  },
+  "combined": {
+    "rows": 12923,
+    "unique_players": 2536,
+    "seasons": 26,
+    "zero_gms": 190,
+    "gt82_gms": 1749
+  },
+  "top10_seasons": [
+    {
+      "season": "2021-2022",
+      "player": "DeMar DeRozan",
+      "pos": "G-F",
+      "gms": 75,
+      "clwpa": 5.84
+    },
+    {
+      "season": "2007-2008",
+      "player": "LeBron James",
+      "pos": "F",
+      "gms": 75,
+      "clwpa": 5.48
+    },
+    {
+      "season": "2022-2023",
+      "player": "De'Aaron Fox",
+      "pos": "G",
+      "gms": 71,
+      "clwpa": 5.44
+    },
+    {
+      "season": "2016-2017",
+      "player": "Isaiah Thomas",
+      "pos": "G",
+      "gms": 76,
+      "clwpa": 5.19
+    },
+    {
+      "season": "2014-2015",
+      "player": "Anthony Davis",
+      "pos": "F-C",
+      "gms": 68,
+      "clwpa": 5.04
+    },
+    {
+      "season": "2025-2026",
+      "player": "Shai Gilgeous-Alexander",
+      "pos": "G",
+      "gms": 64,
+      "clwpa": 4.9
+    },
+    {
+      "season": "2008-2009",
+      "player": "Brandon Roy",
+      "pos": "G",
+      "gms": 78,
+      "clwpa": 4.87
+    },
+    {
+      "season": "2006-2007",
+      "player": "Mehmet Okur",
+      "pos": NaN,
+      "gms": 80,
+      "clwpa": 4.65
+    },
+    {
+      "season": "2016-2017",
+      "player": "CJ McCollum",
+      "pos": "G",
+      "gms": 80,
+      "clwpa": 4.64
+    },
+    {
+      "season": "2022-2023",
+      "player": "DeMar DeRozan",
+      "pos": "G-F",
+      "gms": 74,
+      "clwpa": 4.63
+    }
+  ],
+  "bottom10_seasons": [
+    {
+      "season": "2000-2001",
+      "player": "Chris Webber",
+      "pos": NaN,
+      "gms": 70,
+      "clwpa": -4.26
+    },
+    {
+      "season": "2002-2003",
+      "player": "Paul Pierce",
+      "pos": "F",
+      "gms": 79,
+      "clwpa": -3.63
+    },
+    {
+      "season": "2000-2001",
+      "player": "Kevin Garnett",
+      "pos": "F",
+      "gms": 81,
+      "clwpa": -3.49
+    },
+    {
+      "season": "2000-2001",
+      "player": "Jerry Stackhouse",
+      "pos": "F",
+      "gms": 80,
+      "clwpa": -3.44
+    },
+    {
+      "season": "2002-2003",
+      "player": "Zydrunas Ilgauskas",
+      "pos": "C",
+      "gms": 81,
+      "clwpa": -3.42
+    },
+    {
+      "season": "2004-2005",
+      "player": "Antoine Walker",
+      "pos": "F",
+      "gms": 77,
+      "clwpa": -3.07
+    },
+    {
+      "season": "2002-2003",
+      "player": "Jason Kidd",
+      "pos": "G",
+      "gms": 80,
+      "clwpa": -2.98
+    },
+    {
+      "season": "2003-2004",
+      "player": "LeBron James",
+      "pos": "F",
+      "gms": 79,
+      "clwpa": -2.94
+    },
+    {
+      "season": "2010-2011",
+      "player": "DeMarcus Cousins",
+      "pos": "C",
+      "gms": 81,
+      "clwpa": -2.94
+    },
+    {
+      "season": "2003-2004",
+      "player": "Paul Pierce",
+      "pos": "F",
+      "gms": 80,
+      "clwpa": -2.8
+    }
+  ]
+}
